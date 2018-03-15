@@ -1,0 +1,1 @@
+template_symfony_bootstrap_jquery
